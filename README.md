@@ -8,6 +8,9 @@ About this file
 <li>Push Changes to the main branch </li>
 <li>Write some things and give it structure in html</li>
 <li> Learn about food </li>
+<li> Create an html boiler plate configuration</li>
+<li> Create the html structure of a recipies site to be able to style it with css</li>
+
 </ul>
 
 
